@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Start a new repository. With a repository, we could add files to staging area so that we could track the changes with commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area keeps track on those files we want to track differences while working directory stores those files and repository also keeps log of those changes.
+
