@@ -1,1 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  
+  So that I could have an remote copy even if my local original ones were corrupted or something else.
+  
 
